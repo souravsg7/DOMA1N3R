@@ -12,7 +12,7 @@ try:
 		content=[line.strip() for line in handle.read().split('\n') if line]
 except Exception:
 	
-	print("PLEASE ENTER THE WORDLIST NAME FOR SCANNING:")
+	print("PLEASE ENTER THE WORDLIST NAME FOR SCANNING ")
 	sys.exit()
 
 Domain=input("ENTER THE DOMAIN NAME TO SCAN :")
