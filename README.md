@@ -4,7 +4,6 @@ First Install request module using command
 pip install requests
 
 
-# AFTER THAT
 
 # RUN COMMAND
 
